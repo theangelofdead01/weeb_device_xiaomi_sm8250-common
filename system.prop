@@ -97,9 +97,6 @@ persist.service.pcsync.enable=0
 # Notch Overlay
 ro.miui.notch=1
 
-# Disable blur on app launch
-ro.launcher.blur.appLaunch=0
-
 # Better Ram
 ro.config.fha_enable=true
 ro.sys.fw.bg_apps_limit=32
